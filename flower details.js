@@ -1,7 +1,7 @@
 const paintings = [
 
     {
-        image: "Flower Paintings/flower1.jpg",
+        image: "Flower paintings/flower1.jpg",
         title: "Flames of Freedom",
         description: "A bold and expressive abstract horse painting that captures the raw energy, grace, and untamed spirit of a powerful stallion. Dynamic brush strokes and layered textures blend fiery reds, golden ochres, deep blacks, and soft whites to create movement and emotion across the canvas. The artwork symbolizes strength, passion, and freedom while giving a modern contemporary aesthetic perfect for luxury interiors, galleries, and statement walls. This painting creates a dramatic visual impact and brings a sense of motion and elegance into any space.",
         price: "PKR 48,000",
@@ -14,7 +14,7 @@ const paintings = [
     },
 
     {
-        image: "Flower Paintings/flower2.jpg",
+        image: "Flower paintings/flower2.jpg",
         title: "Color Splash Art",
         description: "A dynamic explosion of multi-colored floral energy captured on canvas. This piece utilizes fine abstract splatters and blending techniques to represent a wild garden blooming simultaneously in spring, bringing joy and a modern artistic energy to any home interior.",
         price: "Rs. 6,000",
@@ -27,7 +27,7 @@ const paintings = [
     },
 
     {
-        image: "Flower Paintings/flower3.jpg",
+        image: "Flower paintings/flower3.jpg",
         title: "Modern Texture Art",
         description: "Featuring structural, thick 3D textures that mimic the touch of natural petals. Built with delicate palette knife strokes, the raised acrylic layers create realistic botanical shapes that beautifully interact with ambient room light.",
         price: "Rs. 4,800",
@@ -40,7 +40,7 @@ const paintings = [
     },
 
     {
-        image: "Flower Paintings/flower4.jpg",
+        image: "Flower paintings/flower4.jpg",
         title: "Luxury Canvas Art",
         description: "An elegant, premium-grade luxury botanical masterpiece. Deep, velvet background tones contrast vividly against fine gold leaf veins embedded within the soft white petals, offering an exquisite touch for modern living spaces.",
         price: "Rs. 7,200",
@@ -53,7 +53,7 @@ const paintings = [
     },
 
     {
-        image: "Flower Paintings/flower5.jpg",
+        image: "Flower paintings/flower5.jpg",
         title: "Classic Wall Painting",
         description: "A timeless portrayal of a dense field of red roses under a calm afternoon sky. The comforting and soft brush strokes spread warmth, making it a perfect accent piece for main living room walls and entryways.",
         price: "Rs. 5,500",
@@ -66,7 +66,7 @@ const paintings = [
     },
 
     {
-        image: "Flower Paintings/flower6.jpg",
+        image: "Flower paintings/flower6.jpg",
         title: "Premium Acrylic Art",
         description: "A highly stylized, premium modern representation of blooming water lilies. The deep turquoise pool colors blend into brilliant violet accents, creating a soothing, water-like reflection on a glossy canvas surface.",
         price: "Rs. 6,300",
@@ -79,7 +79,7 @@ const paintings = [
     },
 
     {
-        image: "Flower Paintings/flower7.jpg",
+        image: "Flower paintings/flower7.jpg",
         title: "Premium Acrylic Art",
         description: "Capturing a magnificent cluster of wild sunflowers facing a bright morning horizon. The painting utilizes thick impasto layers to give the seeds and petals an organic, tactile, three-dimensional depth.",
         price: "Rs. 6,300",
@@ -92,7 +92,7 @@ const paintings = [
     },
 
     {
-        image: "Flower Paintings/flower8.jpg",
+        image: "Flower paintings/flower8.jpg",
         title: "Premium Acrylic Art",
         description: "An elegant contemporary composition featuring pastel pink cherry blossoms drifting through a minimalist mist-covered background. Ideal for peaceful bedroom decors or relaxation zones.",
         price: "Rs. 6,300",
@@ -105,7 +105,7 @@ const paintings = [
     },
 
     {
-        image: "Flower Paintings/flower9.jpg",
+        image: "Flower paintings/flower9.jpg",
         title: "Premium Acrylic Art",
         description: "A bold, majestic contrast painting where deep crimson tulips break through a rich, modern charcoal backdrop, bringing an absolute focal point into minimalistic room layouts.",
         price: "Rs. 6,300",
@@ -118,7 +118,7 @@ const paintings = [
     },
 
     {
-        image: "Flower Paintings/flower10.jpg",
+        image: "Flower paintings/flower10.jpg",
         title: "Premium Acrylic Art",
         description: "A mesmerizing field arrangement of purple lavender stalks swaying under a soft evening wind. The linear rhythm of the strokes creates a therapeutic visual effect for the observer.",
         price: "Rs. 6,300",
@@ -131,7 +131,7 @@ const paintings = [
     },
 
     {
-        image: "Flower Paintings/flower11.jpg",
+        image: "Flower paintings/flower11.jpg",
         title: "Premium Acrylic Art",
         description: "A glorious close-up look at white orchids highlighted by subtle pearlescent drops. This clean, modern artwork brings an immediate sense of purity, calm, and luxury to corporate office spaces.",
         price: "Rs. 6,300",
@@ -144,7 +144,7 @@ const paintings = [
     },
 
     {
-        image: "Flower Paintings/flower12.jpg",
+        image: "Flower paintings/flower12.jpg",
         title: "Premium Acrylic Art",
         description: "An abstract blend of vibrant orange marigolds cascading across a warm terracotta textured surface. Perfect for creating a cozy, welcoming atmosphere in dining areas or kitchens.",
         price: "Rs. 6,300",
@@ -157,7 +157,7 @@ const paintings = [
     },
 
     {
-        image: "Flower Paintings/flower13.jpg",
+        image: "Flower paintings/flower13.jpg",
         title: "Premium Acrylic Art",
         description: "Delicate blue hydrangeas arranged with thick palette knife textures, creating a rich antique look. The beautiful vintage blue-grey tones provide a calming effect to any residential gallery wall.",
         price: "Rs. 6,300",
@@ -170,7 +170,7 @@ const paintings = [
     },
 
     {
-        image: "Flower Paintings/flower14.jpg",
+        image: "Flower paintings/flower14.jpg",
         title: "Premium Acrylic Art",
         description: "A brilliant array of wild meadow daisies dancing under a bright azure sky. This lively painting uses fine splatter techniques to mimic the free-flowing nature of field flora.",
         price: "Rs. 6,300",
@@ -183,7 +183,7 @@ const paintings = [
     },
 
     {
-        image: "Flower Paintings/flower15.jpg",
+        image: "Flower paintings/flower15.jpg",
         title: "Premium Acrylic Art",
         description: "An exotic abstract landscape of tropical hibiscus flowers wrapped in deep emerald palm leaves, radiating a lively vacation mood that instantly brightens bedrooms.",
         price: "Rs. 6,300",
@@ -196,7 +196,7 @@ const paintings = [
     },
 
     {
-        image: "Flower Paintings/flower16.jpg",
+        image: "Flower paintings/flower16.jpg",
         title: "Premium Acrylic Art",
         description: "A minimal, oriental-inspired painting highlighting elegant black branches and single crimson plum blossoms on an off-white background, establishing a balanced aesthetic.",
         price: "Rs. 6,300",
@@ -209,7 +209,7 @@ const paintings = [
     },
 
     {
-        image: "Flower Paintings/flower17.jpg",
+        image: "Flower paintings/flower17.jpg",
         title: "Premium Acrylic Art",
         description: "A heavy impasto composition showcasing rich golden dandelions scattering their wishes across a midnight blue night backdrop, generating an air of magical wonder.",
         price: "Rs. 6,300",
@@ -222,7 +222,7 @@ const paintings = [
     },
 
     {
-        image: "Flower Paintings/flower18.jpg",
+        image: "Flower paintings/flower18.jpg",
         title: "Premium Acrylic Art",
         description: "A dreamlike abstract depiction of soft white peonies melting into light foggy silver tones, providing a sophisticated wall installation option for chic contemporary setups.",
         price: "Rs. 6,300",
@@ -235,7 +235,7 @@ const paintings = [
     },
 
     {
-        image: "Flower Paintings/flower19.jpg",
+        image: "Flower paintings/flower19.jpg",
         title: "Premium Acrylic Art",
         description: "Thick, textured streaks of gold and yellow paint mimic a dense, sunlit meadow of autumn wildflowers, crafted with bold knife gestures for intense structural presence.",
         price: "Rs. 6,300",
@@ -248,7 +248,7 @@ const paintings = [
     },
 
     {
-        image: "Flower Paintings/flower20.jpg",
+        image: "Flower paintings/flower20.jpg",
         title: "Premium Acrylic Art",
         description: "An expressive modern bouquet layout playing with sudden splatters of warm magenta and violet, designed to introduce an immediate, vibrant color statement on large bare walls.",
         price: "Rs. 6,300",
@@ -261,7 +261,7 @@ const paintings = [
     },
 
     {
-        image: "Flower Paintings/flower21.jpg",
+        image: "Flower paintings/flower21.jpg",
         title: "Premium Acrylic Art",
         description: "A cosmic nature fantasy layout where glowing neon lilies stretch across a sky-blue backdrop speckled with silver stars, adding an atmospheric touch to modern spaces.",
         price: "Rs. 6,300",
