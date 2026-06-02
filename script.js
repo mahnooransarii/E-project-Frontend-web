@@ -3,14 +3,17 @@ const accordionHeaders = document.querySelectorAll(".accordion-header");
 
 accordionHeaders.forEach(header => {
     header.addEventListener("click", () => {
-        const body = header.nextElementSibling;
+        // Header ke parent (.accordion-item) ke andar se .accordion-body dhoondo
+        const body = header.parentElement.querySelector(".accordion-body");
         
-        // Close other open items
+        // Baki sabhi bodies ko close karo
         document.querySelectorAll(".accordion-body").forEach(item => {
-            if (item !== body) item.style.display = "none";
+            if (item !== body) {
+                item.style.display = "none";
+            }
         });
 
-        // Toggle current item
+        // Current body ko toggle karo
         if (body.style.display === "block") {
             body.style.display = "none";
         } else {
